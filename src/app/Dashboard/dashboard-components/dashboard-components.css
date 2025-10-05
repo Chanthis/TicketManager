@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+}
+
+.navbar {
+  height: 60px;
+}
+
+.bg-dark {
+  min-height: 100vh;
+}
